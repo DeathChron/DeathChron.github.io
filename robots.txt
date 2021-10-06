@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://DeathChron.github.io/sitemap.xml
